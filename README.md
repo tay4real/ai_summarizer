@@ -4,7 +4,8 @@
 
 An Article Summarizer Application using OpenAI's GPT model
 
-Features
+<h2>Features</h2>
+
 Here is what makes it unique :)
 
 <ul>

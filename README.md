@@ -1,8 +1,24 @@
-# React + Vite
+# OpenAI Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://openaisummize.netlify.app/">Check out Sumz!</a>
 
-Currently, two official plugins are available:
+An Article Summarizer Application using OpenAI's GPT model
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Here is what makes it unique :)
+
+<ul>
+  <li>Setup a ReactJS project using Vite</li>
+  <li>Create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS</li>
+  <li>Make advanced RTK query API requests that fire on condition</li>
+  <li>Handle form events and catch errors</li>
+  <li>Implement copy to clipboard</li>
+  <li>Write clean code</li>
+</ul>
+
+
+
+
+
+
+
